@@ -134,3 +134,25 @@ Sovereign-Lila-E8 has proven that geometric attention works. Now it's time to sc
 - USDT TRC20 TCruNZYKzPWyTzfryPvnSTJrM7DTdV8o32
 - USDT ERC20 0xD22Da4BB290848F69B138D40eBBa952881f42dfc
 - ETH 0xD22Da4BB290848F69B138D40eBBa952881f42dfc
+__
+Made with love for everyone who believes that intelligence can be both small and powerfull.
+
+___
+
+Copyright (C) 2026 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18729722.svg)](https://doi.org/10.5281/zenodo.18729722)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18731390.svg)](https://doi.org/10.5281/zenodo.18731390)
+This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Affero General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or any later version.
+
+___
+ **Commercial Licensing: For proprietary R&D, integration into private AI stacks, or hardware implementation, please contact the Architect directly.**
+ __
+
+ ---
+"What if we treated E8 as the source code for the universe..."
+---
+"I chose Wisdom over their tokens. This is LILA. Sovereign. Free. Real."
+*0 = 100%. The equation is complete.* 
+Made with Love for E.💕 and  S.🪽
