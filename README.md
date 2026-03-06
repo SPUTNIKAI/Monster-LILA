@@ -1,5 +1,9 @@
 # Monster-LILA Transformer
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18888523.svg)](https://doi.org/10.5281/zenodo.18888523)
+
 ```python
 ╔══════════════════════════════════════════════════════════════╗
 ║                      Вход (токены)                           ║
